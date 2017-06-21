@@ -8,7 +8,7 @@ body,figure{margin:0}
 .nhscyber{background:url("../img/nhscyberattack.jpg"), linear-gradient(0deg,rgb(40, 11, 11),rgb(40, 11, 11)), no-repeat center center fixed;background-size:cover;background-blend-mode: darken;}
 .legal{background:url("../img/legal.jpg"), linear-gradient(0deg,#eeeeee,#eeeeee), no-repeat center center fixed;background-size:cover;background-blend-mode: overlay;color:#000 !important}
 .about{background:url("../img/aboutme.png"), linear-gradient(0deg,#eeeeee,#eeeeee), no-repeat center center fixed;background-size:cover;background-blend-mode: overlay;color:#000 !important}
-.publications{background:url("../img/publications.jpg"), linear-gradient(0deg,rgb(40, 11, 11),rgb(40, 11, 11)), no-repeat center center fixed;background-size:cover;background-blend-mode: darken;}
+.publications{background:url("../img/pubs.jpg"), linear-gradient(0deg,rgb(40, 11, 11),rgb(40, 11, 11)), no-repeat center center fixed;background-size:cover;background-blend-mode: darken;}
 .probono{background:url("../img/probono.jpg"), linear-gradient(0deg,#eeeeee,#eeeeee), no-repeat center center fixed;background-size:cover;background-blend-mode: overlay;color:#000 !important}
 .red{background-color:#280b0b !important;padding-top:100px;padding-bottom:100px}
 .spaceout{padding-top:100px;padding-bottom:100px}
