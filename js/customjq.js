@@ -1,3 +1,4 @@
+
 $( document ).ready(function() {
 	
 	var scrollState = 0;
@@ -5,7 +6,7 @@ $( document ).ready(function() {
 	/* after 150px, created fixed top menu */
 	$(window).on("scroll", function(e) {
 		
-	  if ($(this).scrollTop() > 300 && scrollState == 0) {
+	  if ($(this).scrollTop() > 300 && scrollState === 0) {
 		$(".fix").addClass("fix-nav");
 		$('.navbar').animate({
 			opacity: '1.0'
@@ -25,6 +26,12 @@ $( document ).ready(function() {
 		console.log("remove fix");
 	  }
 	  
+	});
+	
+	$("#navbutton").click(function() {
+		if($(window).scrollTop() < 150 && $(window).width() < 500){
+					$(".fix").addClass("fix-nav");
+		}
 	});
 	
 });
