@@ -1482,6 +1482,6 @@ input,textarea{color:#1c1b1b}
 .name{font-size:50px !important; line-height:20px}
 .credentials{font-size:14px;padding-top:-30px}
 .credentialssm{font-size:8px;padding-top:-30px}
-@media (max-width:500px){.intro{background:url("../img/bgs.jpg") no-repeat center center fixed;background-size:cover}}
-@media (min-width:501px){.intro{background:url("../img/bg.jpg") no-repeat center center fixed;background-size:cover}}
+@media (max-width:750px){.intro{background:url("../img/bgs.jpg") no-repeat center center fixed;background-size:cover}}
+@media (min-width:751px){.intro{background:url("../img/bg.jpg") no-repeat center center fixed;background-size:cover}}
 .footer{background:url("../img/footer.jpg") no-repeat center center fixed;background-size:cover}
