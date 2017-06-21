@@ -1483,7 +1483,7 @@ input,textarea{color:#1c1b1b}
 @media (max-width:750px){
 .intro{background:url("../img/bgs.jpg") no-repeat center center fixed;background-size:cover}
 .credentials{font-size:10px;padding-top:-30px}
-.name{font-size:10px}
+.name{font-size:25px}
 }
 @media (min-width:751px){.intro{background:url("../img/bg.jpg") no-repeat center center fixed;background-size:cover}
 .name{font-size:50px !important; line-height:20px}
