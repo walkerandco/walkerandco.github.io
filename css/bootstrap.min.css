@@ -1479,12 +1479,13 @@ input,textarea{color:#1c1b1b}
 .popover-title{border:none}
 .hidden { display: none !important }
 .prelim{margin-left:-15px !important; padding: 0px !important}
-.name{font-size:50px !important; line-height:20px}
 .credentials{font-size:14px;padding-top:-30px}
 @media (max-width:750px){
 .intro{background:url("../img/bgs.jpg") no-repeat center center fixed;background-size:cover}
 .credentials{font-size:10px;padding-top:-30px}
 .name{font-size:10px}
 }
-@media (min-width:751px){.intro{background:url("../img/bg.jpg") no-repeat center center fixed;background-size:cover}}
+@media (min-width:751px){.intro{background:url("../img/bg.jpg") no-repeat center center fixed;background-size:cover}
+.name{font-size:50px !important; line-height:20px}
+}
 .footer{background:url("../img/footer.jpg") no-repeat center center fixed;background-size:cover}
