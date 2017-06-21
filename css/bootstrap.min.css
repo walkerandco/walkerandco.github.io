@@ -62,7 +62,6 @@ h2,h3{page-break-after:avoid}
 .table-bordered td,.table-bordered th{border:1px solid #ddd!important}
 }
 .img-thumbnail,body{background-color:#1c1b1b;}
-.intro{background:url("../img/bgs.jpg") no-repeat center center fixed;background-size:cover}
 @media screen and (min-width: 750px) {
 	body{background-color:#1c1b1b;}
 }
@@ -1485,3 +1484,4 @@ input,textarea{color:#1c1b1b}
 .credentialssm{font-size:8px;padding-top:-30px}
 .intro{background:url("../img/bg.jpg") no-repeat center center fixed;background-size:cover}
 .footer{background:url("../img/footer.jpg") no-repeat center center fixed;background-size:cover}
+@media (max-width:500px){.intro{background:url("../img/bgs.jpg") no-repeat center center fixed;background-size:cover}
